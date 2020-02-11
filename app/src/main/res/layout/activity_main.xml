@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.willpower.customview.ShadowsLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.willpower.customview.TouchImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="centerInside"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_launcher"/>
+
+</com.willpower.customview.ShadowsLayout>
